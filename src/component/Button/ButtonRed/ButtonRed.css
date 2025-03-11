@@ -1,0 +1,14 @@
+.login-btn{
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    height: 40px;
+    width: 120px;
+    border-radius: 4px;
+}
+
+.hoveringRed:hover{
+    border: 10px solid rgb(0, 0, 0);
+    cursor: pointer;
+    
+}
