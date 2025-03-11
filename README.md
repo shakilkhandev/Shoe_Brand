@@ -2,7 +2,9 @@
 
 This project is a React-based web application for a shoe brand. It showcases a hero section with promotional content, navigation links, and buttons for user interaction.
 
-## Getting Started
+## live link 
+
+https://shoeband.netlify.app/
 
 ### Prerequisites
 
